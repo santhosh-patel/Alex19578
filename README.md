@@ -30,7 +30,7 @@
 Hi there, I'm **Santhosh Patel**, a **DataScience student** 🚀 from hyderabad, India.
  <!-- Currently pursuing bachelors 3rd year in data science and learning blockchain, solidity and web3 technologies, and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif" />
 
 **About Me!**
 
@@ -54,8 +54,8 @@ Hi there, I'm **Santhosh Patel**, a **DataScience student** 🚀 from hyderabad,
 <code><img height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></code>
 <code><img height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png"></code>
-<code><img height="30" src="https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/2612/2612051.png"></code>
+<code><img height="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU"></code>
