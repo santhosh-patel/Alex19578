@@ -34,10 +34,10 @@ Hi there, I'm **Santhosh Patel**, a **DataScience student** 🚀 from hyderabad,
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working software developer intern at JP Morgan Chase and Co.
-- 🌱 I’m currently developing webpages and application to make learning blockchain easy. 
+- 👨🏽‍💻 I’m pursuing a Bachelor's degree in Data Science.
+- 🌱 I’m currently developing webpages and application to make learning blockchain technology easy. 
 - 🤔 My interests are web development, machine learning, web3 and blockchain development.
-- 💼 I’m pursuing a Bachelor's degree in Data Science.
+- 💼 I’m looking to colaborate with new commities and people with prior knowledge in max skill set.
 - 💬 Ask me anything about blockchain, machine learning and web designing, I love to answer!
 - 📫 Email me at [alex.forgerr@gmail.com](mailto:alex.forgerr@gmail.com).
 - 📝 For more information check my personal website <a href="https://alex19578.netlify.app/"> profile</a>.
