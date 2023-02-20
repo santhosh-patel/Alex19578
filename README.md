@@ -1,14 +1,6 @@
 <!-- <h3 title="prof"> Hi there! 👋</h3> -->
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <h3 title="hehehe"> Hey 👋, I'm Santhosh Patel!</h3>
 
@@ -34,13 +26,13 @@ Hi there, I'm **Santhosh Patel**, a **DataScience student** 🚀 from hyderabad,
 
 **About Me!**
 
-- 👨🏽‍💻 I’m pursuing a Bachelor's degree in Data Science.
-- 🌱 I’m currently developing webpages and application to make learning blockchain technology easy. 
-- 🤔 My interests are web development, machine learning, web3 and blockchain development.
-- 💼 I’m looking to colaborate with new commities and people with prior knowledge in max skill set.
-- 💬 Ask me anything about blockchain, machine learning and web designing, I love to answer!
-- 📫 Email me at [alex.forgerr@gmail.com](mailto:alex.forgerr@gmail.com).
-- 📝 For more information check my personal website <a href="https://alex19578.netlify.app/"> profile</a>.
+- 👨🏽‍💻 My educational pursuit is centered around obtaining a Bachelor's degree in Data Science.
+- 🌱 At the moment, I am actively involved in the creation of webpages and applications that aim to facilitate easy comprehension of blockchain technology. 
+- 🤔 My primary interests lie in the fields of web development, machine learning, web3 and blockchain development.
+- 💼 I am currently seeking to collaborate with new communities and individuals who possess prior knowledge and skills in these areas.
+- 💬 I am open to answering any queries regarding blockchain, machine learning, and web design.
+- 📫 To get in touch with me, please feel free to email me [alex.forgerr@gmail.com](mailto:alex.forgerr@gmail.com).
+- 📝 For further information, kindly refer to my <a href="https://alex19578.netlify.app/"> profile</a>.
 
 
 **Languages and Tools:**  
