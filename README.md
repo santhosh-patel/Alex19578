@@ -31,7 +31,7 @@ Hi there, I'm **Santhosh Patel**, a **DataScience student** 🚀 from hyderabad,
 - 🤔 My primary interests lie in the fields of web development, machine learning, web3 and blockchain development.
 - 💼 I am currently seeking to collaborate with new communities and individuals who possess prior knowledge and skills in these areas.
 - 💬 I am open to answering any queries regarding blockchain, machine learning, and web design.
-- 📫 To get in touch with me, please feel free to email me [alex.forgerr@gmail.com](mailto:alex.forgerr@gmail.com).
+- 📫 To get in touch with me, please feel free to [email me](mailto:alex.forgerr@gmail.com).
 - 📝 For further information, kindly refer to my <a href="https://alex19578.netlify.app/"> profile</a>.
 
 
